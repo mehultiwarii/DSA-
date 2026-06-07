@@ -1,0 +1,12 @@
+# Java compiled files
+*.class
+
+# VS Code temporary files
+tempCodeRunnerFile.java
+
+# Logs
+*.log
+
+# IDE files
+.vscode/
+.idea/
